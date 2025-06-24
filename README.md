@@ -100,6 +100,12 @@ Saved in the `outputs/` folder:
 
 ---
 
+## Conclusion
+
+- This analysis shows that factors like education, healthcare spending, immunization, and GDP strongly improve life expectancy, while high mortality rates and undernutrition reduce it. Our machine learning model (XGBoost) predicted life expectancy with high accuracy (R² = 0.96), helping identify key areas for public health improvement and policy focus.
+
+---
+
 ## 🚀 How to Run the Project
 
 ### 1. Install dependencies
